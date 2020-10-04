@@ -1,0 +1,23 @@
+{
+  "name": "chenblog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/chenblog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "push": "deploy.bat"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-theme-reco": "^1.5.7"
+  }
+}
