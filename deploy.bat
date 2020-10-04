@@ -17,7 +17,7 @@ git commit -m 'deploy'
 
 REM 如果发布到 https://gitee.com/<USERNAME>
 REM git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
-git push -f git@github.com:Hacker-King/Hacker-King.github.io.git master
+git push -f git@github.com:hacker-king/Hacker-King.github.io.git master
 
 
 REM 如果发布到 https://gitee.com/<USERNAME>/<REPO>

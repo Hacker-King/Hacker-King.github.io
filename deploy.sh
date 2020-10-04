@@ -22,7 +22,7 @@ git commit -m 'deploy-updata'
 # 如果想用username.gitee.io或者username.github.io访问你的网站，必须让新建的仓库地址和你的用户名一致！！
 
 # 提交到github
-git push -f git@github.com:Hacker-King/Hacker-King.github.io.git master
+git push -f git@github.com:Hacker-King/acker-King.github.io.git master
 
 
 cd -
